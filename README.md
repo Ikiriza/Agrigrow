@@ -30,3 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+![WhatsApp Image 2024-04-27 at 17 48 11_217ff6af](https://github.com/Ikiriza/Agrigrow/assets/99279784/548d2215-2fba-4194-b3c3-1ee03ad76cd8)
+
+  
